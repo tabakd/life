@@ -1,7 +1,7 @@
 {
-  "name": "essential-react",
-  "version": "0.2.0",
-  "description": "A minimal skeleton for building testable React apps using ES6.",
+  "name": "life",
+  "version": "0.0.1",
+  "description": "Conway's Game of Life implemented using React and Flux. ",
   "main": "src/main.jsx",
   "scripts": {
     "server": "node server.js",
@@ -23,9 +23,9 @@
   "author": "Mark Fayngersh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pheuter/essential-react/issues"
+    "url": "https://github.com/tabakd/life/issues"
   },
-  "homepage": "https://github.com/pheuter/essential-react",
+  "homepage": "https://github.com/tabakd/life",
   "devDependencies": {
     "babel-core": "^4.7.8",
     "babel-loader": "^4.1.0",
